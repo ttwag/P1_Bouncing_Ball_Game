@@ -1,5 +1,5 @@
 # Bouncing Ball Game
-![Figure1](./images/Figure1.png)
+<img src="./images/Figure1.png" alt="error with loading the image" width="300" />
 
 ## Skills Involved
 * C Language
